@@ -1,0 +1,94 @@
+{
+  "items": [
+  {"title": "mad hatter čaj",
+   "price": 700.00,
+    "id": "1",
+    "image": "./img-shop/product-1.jpeg"
+  },
+  {"title": "alice čaj",
+   "price": 650.00,
+    "id": "2",
+    "image": "./img-shop/product-2.jpeg"
+  },
+  {"title": "white rabbit",
+    "price": 640.00,
+     "id": "3",
+     "image": "./img-shop/product-3.jpeg"
+   },
+   {"title": "cheshire cat",
+    "price": 470.00,
+     "id": "4",
+     "image": "./img-shop/product-4.jpeg"
+   },
+   {"title": "the red queen čaj",
+    "price": 700.00,
+     "id": "5",
+     "image": "./img-shop/product-5.jpeg"
+   },
+   {"title": "the white queen čaj",
+    "price": 650.00,
+     "id": "6",
+     "image": "./img-shop/product-6.jpeg"
+   },
+   {"title": "the march hare",
+    "price": 550.00,
+     "id": "7",
+     "image": "./img-shop/product-7.jpeg"
+   },
+   {"title": "the absolem čaj",
+    "price": 450.00,
+     "id": "8",
+     "image": "./img-shop/product-8.jpeg"
+   },
+   {"title": "ceylon green čaj",
+    "price": 550.00,
+    "id": "9",
+    "image": "./img-shop/product-9.jpeg"
+   },
+   {"title": "earl green čaj",
+    "price": 620.00,
+    "id": "10",
+    "image": "./img-shop/product-10.jpeg"
+   },
+   {"title": "irish cream čaj",
+    "price": 520.00,
+    "id": "11",
+    "image": "./img-shop/product-11.jpeg"
+   },
+   {"title": "cvet hibiskusa čaj",
+    "price": 450.00,
+    "id": "12",
+    "image": "./img-shop/product-12.jpeg"
+   },
+   {"title": "čajnik 1",
+    "price": 5500.00,
+    "id": "13",
+    "image": "./img-shop/product-13.jpeg"
+   },
+   {"title": "čajnik 2",
+    "price": 7000.00,
+    "id": "14",
+    "image": "./img-shop/product-14.jpeg"
+   },
+   {"title": "čajnik 3",
+    "price": 4700.00,
+    "id": "15",
+    "image": "./img-shop/product-15.jpeg"
+   },
+   {"title": "čajnik 4",
+    "price": 5470.00,
+    "id": "16",
+    "image": "./img-shop/product-16.jpeg"
+   },
+   {"title": "čajnik 5",
+    "price": 3470.00,
+    "id": "17",
+    "image": "./img-shop/product-17.jpeg"
+   },
+   {"title": "čajnik 6",
+    "price": 2770.00,
+    "id": "18",
+    "image": "./img-shop/product-18.jpeg"
+   }
+ ]
+}
